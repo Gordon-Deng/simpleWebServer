@@ -1,4 +1,3 @@
-// @Email xxbbb@vip.qq.com
 #pragma once
 #include <cstdlib>
 #include <string>
